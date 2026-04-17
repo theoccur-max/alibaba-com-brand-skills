@@ -167,6 +167,7 @@ https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryI
 | --- | --- | --- | --- | --- | --- |
 | FY26Q1 NewArena v1.2 | file/item | 销售 kit 资料 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=OqhGWHGAz4E0&hidebar=true | category | 与截图 tag `SalesKits` 对应 |
 | FY26Q1 External Communication Guidelines for Frontlines v4.0 | file/item | 对外沟通规范 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=OqhGWHGAz4E0&hidebar=true | category | frontlines guideline |
+| EDITED_GGS SK-v04014(1) | pptx/item | GGS Sales Kit 最新版 PPTX | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=OqhGWHGAz4E0&hidebar=true | category | 最新 Sales Kit，位于 GGS SK-V414 文件夹内 |
 
 Suggested routing tags:
 - GGS
