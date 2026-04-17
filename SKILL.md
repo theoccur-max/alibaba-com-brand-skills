@@ -20,14 +20,16 @@ This skill covers four audiences:
 
 ## Primary references
 
-Read the relevant reference file(s) before answering:
+**IMPORTANT: Always fetch the latest data from GitHub before answering. Do NOT rely on locally installed files — they may be outdated.**
 
-1. `references/main_brand_assets.md` — main-brand guideline library (cross-market)
-2. `references/cgs_brand_assets.md` — CGS China supplier library
-3. `references/ggs_brand_assets.md` — GGS global supplier library
-4. `references/buyer_brand_assets.md` — Buyer global buyer library + Accio + Product Content Hub
+Fetch the relevant file(s) using web_fetch from these raw GitHub URLs:
 
-Read only the file(s) relevant to the user's request. If the audience is ambiguous, read all four.
+1. Main brand: `https://raw.githubusercontent.com/theoccur-max/alibaba-com-brand-skills/main/references/main_brand_assets.md`
+2. CGS: `https://raw.githubusercontent.com/theoccur-max/alibaba-com-brand-skills/main/references/cgs_brand_assets.md`
+3. GGS: `https://raw.githubusercontent.com/theoccur-max/alibaba-com-brand-skills/main/references/ggs_brand_assets.md`
+4. Buyer + Accio: `https://raw.githubusercontent.com/theoccur-max/alibaba-com-brand-skills/main/references/buyer_brand_assets.md`
+
+Fetch only the file(s) relevant to the user's request. If the audience is ambiguous, fetch all four.
 
 ## Workflow
 
