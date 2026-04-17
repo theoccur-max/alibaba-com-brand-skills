@@ -54,6 +54,8 @@ The left sidebar currently shows 5 top-level categories under this library.
 
 ## Known root-level visible items
 
+These items were visible from the library's root or all-items view and can be used as routing clues.
+
 | Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
 | --- | --- | --- | --- | --- | --- |
 | Alibaba.com Brand Video | folder/item | Buyer-side main brand video direction | https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=all&hidebar=true | root | Visible in all-items view; tags include `Buyer`, `Brand Video` |
@@ -63,12 +65,14 @@ The left sidebar currently shows 5 top-level categories under this library.
 
 ### CGS品牌规范（简体中文NEW）
 
+Category path: 阿里国际站主品牌规范 | Alibaba.com main brand > CGS品牌规范（简体中文NEW）
+
 Category link:
 https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=0avGFSmMCRA1&hidebar=true
 
 | Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Alibaba.com 大区品牌 | folder | 大区品牌 logo / 规范 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=0avGFSmMCRA1&hidebar=true | category | tags: CGS, Alibaba.com Logo, Logo, 大区品牌 |
+| Alibaba.com | 大区品牌 | folder | 大区品牌 logo / 规范 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=0avGFSmMCRA1&hidebar=true | category | tags: CGS, Alibaba.com Logo, Logo, 大区品牌 |
 | Alibaba.com 品牌背书 | folder | 品牌背书素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=0avGFSmMCRA1&hidebar=true | category | tags: CGS, Logo, Alibaba.com Logo, 品牌背书 |
 | Alibaba.com 产品及业务品牌规范 | folder | 产品及业务从属规范 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=0avGFSmMCRA1&hidebar=true | category | tags: CGS, 产品及业务品牌规范, Logo |
 | Alibaba.com 官方社媒Icon | folder | 官方社媒 icon | https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=0avGFSmMCRA1&hidebar=true | category | tags: Media Icon, CGS |
@@ -85,15 +89,30 @@ https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryI
 
 ### GGS 品牌规范（繁體中文）
 
+Category path: 阿里国际站主品牌规范 | Alibaba.com main brand > GGS 品牌规范（繁體中文）
+
 Category link:
 https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=kCHCPliTry4g&hidebar=true
 
+Known status:
+- Top-level category link confirmed.
+- Deeper assets inside this category are not yet fully enumerated in the current index.
+
 ### Buyer Guideline (English)
+
+Category path: 阿里国际站主品牌规范 | Alibaba.com main brand > Buyer Guideline (English)
 
 Category link:
 https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=DUik4eqlBUnb&hidebar=true
 
+Known status:
+- Top-level category link confirmed.
+- Use this category for Buyer English guideline routing.
+- Deeper assets inside this category are not yet fully enumerated in the current index.
+
 ### Buyer Brandbook
+
+Category path: 阿里国际站主品牌规范 | Alibaba.com main brand > Buyer Brandbook
 
 Category link:
 https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=lost2IiQTTjs&hidebar=true
@@ -105,8 +124,14 @@ https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryI
 
 ### GGS Guideline (English)
 
+Category path: 阿里国际站主品牌规范 | Alibaba.com main brand > GGS Guideline (English)
+
 Category link:
 https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=e74QOU8XNn9R&hidebar=true
+
+Known status:
+- Top-level category link confirmed.
+- Deeper assets inside this category are not yet fully enumerated in the current index.
 
 ## Link handling rule
 
@@ -115,3 +140,12 @@ Default to the most specific confirmed browseable link available in this order:
 2. confirmed category link
 3. root main-brand library link
 4. direct file link only when the user explicitly asks for a direct file, or when no browseable folder or category link is available
+
+When a user asks for a specific asset, return:
+- the exact known asset title, folder name, or tag clue
+- the category path
+- the preferred browseable Done link from this file
+- a short note about whether the link opens a folder, category, or the root library
+
+Never invent a direct asset link that is not present in this file.
+If the exact asset is not yet confirmed, return the closest category or root-library route and explain how to navigate inside the sidebar.

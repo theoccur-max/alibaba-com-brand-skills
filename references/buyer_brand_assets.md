@@ -754,6 +754,73 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/aKSrriSnhq0l
 
 ---
 
+## Accio Work Library
+
+- Library name: Accio Work
+- Project ID: ht0ZLjIqgNSt
+- Root Done link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=all&hidebar=true
+- Audience: internal / Accio Work product team
+- Status: latest
+
+### Top-level category map
+
+| Category | categoryId | What it contains |
+| --- | --- | --- |
+| Use cases | QpegbsoJ1yQ2 | MP4 videos: Organize files / Build a store / Build an app (Generative UI) |
+| Logo | TmZhATy6X3tS | Accio Work LOGO PNGs folder |
+| Official Demo | 5J6reQZFwOgE | Official product demo video |
+| How to series | 9GsFoOKMvn6g | Tutorial videos: How to install / What is Accio Work / About Accio Work Agent / 3 steps to set up |
+| Ad Creatives | l7CZVq3Qywik | Ad creative materials |
+
+### Known assets by category
+
+#### Use cases
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=QpegbsoJ1yQ2&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Organize files | video-file-or-item | Use case demo: organizing files with Accio Work | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=QpegbsoJ1yQ2&hidebar=true | category | MP4 video |
+| Build a store | video-file-or-item | Use case demo: building a store with Accio Work | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=QpegbsoJ1yQ2&hidebar=true | category | MP4 video |
+| Build an app (Generative UI) | video-file-or-item | Use case demo: building an app with Generative UI | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=QpegbsoJ1yQ2&hidebar=true | category | MP4 video |
+
+#### Logo
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=TmZhATy6X3tS&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Accio Work LOGO PNGs | folder | Accio Work logo PNG files | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=TmZhATy6X3tS&directoryFile=9hr8Yv22vSWRwywV | folder | Official Accio Work logo PNG assets |
+
+#### Official Demo
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=5J6reQZFwOgE&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Official Demo | video-file-or-item | Official product demonstration video | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=5J6reQZFwOgE&hidebar=true | category | Single demo video |
+
+#### How to series
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
+| --- | --- | --- | --- | --- | --- |
+| How to install | folder | Tutorial: how to install Accio Work | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&directoryFile=lEfAPvBHBYVw3bzY | folder | Step-by-step install tutorial video |
+| What is Accio Work | folder | Tutorial: introduction to Accio Work | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&directoryFile=OGL7bLBWYzbKTh4e | folder | Product overview tutorial video |
+| About Accio Work Agent | folder | Tutorial: about the Accio Work Agent | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&directoryFile=us9ntSQLYciOwuOS | folder | Agent feature tutorial video |
+| 3 steps to set up | folder | Tutorial: 3-step setup guide | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&directoryFile=gkBzjHGEMszbG5jn | folder | Quick setup tutorial video |
+
+#### Ad Creatives
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=l7CZVq3Qywik&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Ad Creatives | ad-creative-file-or-item | Accio Work advertising creative materials | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=l7CZVq3Qywik&hidebar=true | category | Ad creative assets |
+
+---
+
 ## Link handling rule
 
 Default to the most specific confirmed browseable link available in this order:
