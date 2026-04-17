@@ -243,6 +243,29 @@ Suggested routing tags:
 - 服贸会
 - 广交会
 
+---
+
+### Accio Work素材（CGS）
+
+Category path: 中国供应商 | CGS > Accio Work素材
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true
+
+| 文件夹名 | 类型 | 用途 | 确认链接 | 链接层级 | 备注 |
+| --- | --- | --- | --- | --- | --- |
+| 客户使用Accio Work的视频 | folder | 客户真实使用场景视频合集 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true&directoryFile=aGKPA2IBwGqH3o4w | folder | 含2个子文件夹，共10个MP4视频 |
+| └─ Accio Work 实战局 | folder | 客户实战使用案例视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true&directoryFile=y3EOqdP3rGSH2evb | folder | 含5个MP4视频 |
+| └─ 生意助手入驻Accio Work | folder | 生意助手相关使用视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true&directoryFile=WVRyz0qdrTUEqRtz | folder | 含5个MP4视频 |
+| HOW TO 系列视频 | folder | Accio Work 教程系列视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true&directoryFile=h0Dzjvg6zt2CFEHy | folder | 含4个MP4：Skill安装/智能体安装/省积分攻略/安装指南 |
+| Accio Work 产品 品牌片 | folder | Accio Work 产品品牌视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true&directoryFile=A5piW6s2aUpaKy3S | folder | 含4个MP4：Spa店篇/香薰篇/玩具篇/合集 |
+
+Suggested routing tags:
+- CGS
+- Accio Work
+- Accio Work素材
+- 品牌视频
+- 教程视频
+
 ## Link handling rule
 
 Default to the most specific confirmed browseable link available in this order:
