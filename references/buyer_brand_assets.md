@@ -817,7 +817,8 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt
 
 | Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Ad Creatives | ad-creative-file-or-item | Accio Work advertising creative materials | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=l7CZVq3Qywik&hidebar=true | category | Ad creative assets |
+| Wispr Flow x Accio Work | folder | Wispr Flow 联名广告素材，含视频和海报 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=l7CZVq3Qywik&hidebar=true&directoryFile=bIZ0Xusu4vn9M6Ka | folder | 5个文件，tags: Video / Poster |
+| Spotlight video | folder | Accio Work Spotlight 广告视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=l7CZVq3Qywik&hidebar=true&directoryFile=6QY9x8LjYfHrjxgG | folder | 3个文件，tags: Video |
 
 ---
 
