@@ -255,10 +255,11 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a
 | --- | --- | --- | --- | --- | --- |
 | 客户使用Accio Work的视频 | folder | 客户真实使用场景视频合集 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true&directoryFile=aGKPA2IBwGqH3o4w | folder | 含2个子文件夹，共10个MP4视频 |
 | └─ Accio Work 实战局 | folder | 客户实战使用案例视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true&directoryFile=y3EOqdP3rGSH2evb | folder | 含5个MP4视频 |
-| └─ 生意助手入驻Accio Work | folder | 生意助手相关使用视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true&directoryFile=WVRyz0qdrTUEqRtz | folder | 含5个MP4视频 |
+| 生意助手入驻Accio Work | folder | 生意助手相关使用视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true&directoryFile=WVRyz0qdrTUEqRtz | folder | 当前页面中作为顶层可见卡片；沿用既有 folder 链接，含5个MP4视频 |
 | HOW TO 系列视频 | folder | Accio Work 教程系列视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true&directoryFile=h0Dzjvg6zt2CFEHy | folder | 含4个MP4：Skill安装/智能体安装/省积分攻略/安装指南 |
 | Accio Work 产品 品牌片 | folder | Accio Work 产品品牌视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true&directoryFile=A5piW6s2aUpaKy3S | folder | 含4个MP4：Spa店篇/香薰篇/玩具篇/合集 |
-| Accio-Work-B2B走向A2A-0419-final | pptx-file | Accio Work B2B 到 A2A 业务方向介绍类演示材料 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true | category | 单个PPTX文件；用户最新截图确认已补齐可见标签：AccioWork / SK / CGS；当前先保留 Accio Work素材 类目页链接，避免误写错直链 |
+| [PPT]AccioWork-B2B走向A2A-0427-final | pptx-file | Accio Work B2B 到 A2A 业务方向介绍类演示材料 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true | category | 单个PPTX文件；标题已更新为 0427 final，页面可见标签为 CGS / AccioWork / SK；当前保留类目页链接，避免误写错直链 |
+| Accio Work一页纸 | png-file | Accio Work 单页介绍图，用于快速产品说明或销售沟通 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true | category | 单个PNG文件；页面可见标签为 CGS / SK / AccioWork |
 
 Suggested routing tags:
 - CGS

@@ -65,6 +65,7 @@ These tags are confirmed as GGS-relevant routing signals. Some map to exact inde
 | GGS Video Repository | campaign 视频仓库 | campaign video、repository、CoCreate、MSME Day、awards 请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=0CP7SpFqNOAz&hidebar=true |
 | GGS Whitepaper | whitepaper / report | whitepaper、report、outlook、barometer 请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=JxAWXNyn2Y4N&hidebar=true |
 | GGS Webinar (to be updated) | webinar 资料 | webinar、Buyer KOL、International Trade Center 请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=uCK0DODuud3R&hidebar=true |
+| Accio Work (For GGS) | Accio Work for GGS 教程、演示、Logo 与介绍素材 | Accio Work、How to、Demo、Logo、What is Accio Work 请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true |
 
 ## Known assets by category
 
@@ -300,6 +301,31 @@ https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryI
 Suggested routing tags:
 - GGS
 - Webinar
+
+### Accio Work (For GGS)
+
+Category path: 全球供应商 | GGS > Accio Work (For GGS)
+
+Category link:
+https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
+| --- | --- | --- | --- | --- | --- |
+| How to set up connectors | mp4-file-or-item | Connector 设置教程视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true&directoryFile=5939d062d0bb24ff | item | 单个MP4，可预览定位 |
+| How to set up channels | mp4-file-or-item | Channel 设置教程视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true&directoryFile=df9129da1db0f5cb | item | 单个MP4，可预览定位 |
+| How to install | folder | 安装教程素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true&directoryFile=d69b1690e730039d | folder | 已确认可浏览文件夹 |
+| 3 steps to set up | folder | 三步完成设置教程素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true&directoryFile=e809ca09898d1a24 | folder | 已确认可浏览文件夹 |
+| Accio Work Demo Video Final | folder | 产品演示视频素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true&directoryFile=b077ec5384897cd7 | folder | 已确认可浏览文件夹 |
+| Accio Work LOGO PNGs | folder | LOGO PNG 素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true&directoryFile=a4c7c6d4797ecc7d | folder | 已确认可浏览文件夹 |
+| What is Accio Work | png-file-or-item | Accio Work 产品介绍单页图 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true&directoryFile=XXgP0yjPoUriD8QE | item | 单个PNG，可预览定位 |
+
+Suggested routing tags:
+- GGS
+- Accio Work
+- Tutorial
+- How to
+- Logo
+- Demo
 
 ## Link handling rule
 
