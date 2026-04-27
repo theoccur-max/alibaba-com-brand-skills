@@ -480,9 +480,9 @@ These are confirmed second-level and third-level assets discovered inside the Pr
 | Social视频 | Social Announcement Video | product-category | European Cup social announcement video assets | https://done.alibaba-inc.com/detail/project/ICBU_MKT/PCKN3H49bWt4/file?categoryId=x6qUrR0Fqmzx&hidebar=true | category | Confirmed non-empty second-level category with 2 MP4 files |
 | [US market] Social Announcement Video | video-file-or-item | European Cup US market social announcement video | https://done.alibaba-inc.com/detail/project/ICBU_MKT/PCKN3H49bWt4/file?categoryId=x6qUrR0Fqmzx&hidebar=true | category | Visible MP4 file inside Social Announcement Video |
 | [China Market]Alibaba.com Social Announcement Video | video-file-or-item | European Cup China market social announcement video | https://done.alibaba-inc.com/detail/project/ICBU_MKT/PCKN3H49bWt4/file?categoryId=x6qUrR0Fqmzx&hidebar=true | category | Visible MP4 file inside Social Announcement Video |
-| CoCreate 2026 | product-category | CoCreate 2026 brand identity assets | https://done.alibaba-inc.com/detail/project/ICBU_MKT/vZtOHZFGPDSB/file?categoryId=On90MTV4LmVHRjPt&hidebar=true | category | Contains 2 logo folders: 2026 COCREATE LOGO and 2026 COCREATE PITCH LOGO |
-| 2026 COCREATE LOGO | folder | CoCreate 2026 main logo files | https://done.alibaba-inc.com/detail/project/ICBU_MKT/vZtOHZFGPDSB/file?categoryId=On90MTV4LmVHRjPt&hidebar=true | category | Confirmed non-empty folder inside CoCreate 2026 |
-| 2026 COCREATE PITCH LOGO | folder | CoCreate 2026 pitch logo files | https://done.alibaba-inc.com/detail/project/ICBU_MKT/vZtOHZFGPDSB/file?categoryId=4te3hU4ELo4fTgl5&hidebar=true | category | Confirmed non-empty folder inside CoCreate 2026 |
+| CoCreate 2026 | product-category | CoCreate 2026 event asset library | https://done.alibaba-inc.com/detail/project/ICBU_MKT/vZtOHZFGPDSB/file?categoryId=DDeoq33sN8KX&hidebar=true | category | 含2个文件夹：2026 COCREATE LOGO / 2026 COCREATE PITCH LOGO |
+| 2026 COCREATE LOGO | folder | CoCreate 2026 官方 logo 资产（63个子文件夹） | https://done.alibaba-inc.com/detail/project/ICBU_MKT/vZtOHZFGPDSB/file?categoryId=DDeoq33sN8KX&hidebar=true&directoryFile=On90MTV4LmVHRjPt | folder | 最新 CoCreate 2026 LOGO 文件夹 |
+| 2026 COCREATE PITCH LOGO | folder | CoCreate 2026 pitch 专用 logo 资产（22个子文件夹） | https://done.alibaba-inc.com/detail/project/ICBU_MKT/vZtOHZFGPDSB/file?categoryId=DDeoq33sN8KX&hidebar=true&directoryFile=4te3hU4ELo4fTgl5 | folder | 最新 CoCreate 2026 Pitch LOGO 文件夹 |
 | CoCreate 2025 London | product-category | CoCreate London event asset library | https://done.alibaba-inc.com/detail/project/ICBU_MKT/vZtOHZFGPDSB/file?categoryId=ue7yI6ffww44&hidebar=true | category | Confirmed non-empty CoCreate branch with 8 visible items |
 | 2.上屏文件 | folder | CoCreate London screen material folder | https://done.alibaba-inc.com/detail/project/ICBU_MKT/vZtOHZFGPDSB/file?categoryId=ue7yI6ffww44&hidebar=true | category | Visible confirmed folder inside CoCreate 2025 London; stable directoryFile not captured |
 | 1.平面文件 | folder | CoCreate London print material folder | https://done.alibaba-inc.com/detail/project/ICBU_MKT/vZtOHZFGPDSB/file?categoryId=ue7yI6ffww44&hidebar=true | category | Visible confirmed folder inside CoCreate 2025 London; stable directoryFile not captured |
@@ -523,9 +523,7 @@ These are confirmed second-level and third-level assets discovered inside the Pr
 | Partner Package | folder | CoCreate 2023 partner package folder | https://done.alibaba-inc.com/detail/project/ICBU_MKT/vZtOHZFGPDSB/file?categoryId=NzmqcBEgPWxA&hidebar=true | category | Visible non-empty folder; stable directoryFile not captured |
 | Invitation Letter | folder | CoCreate 2023 invitation letter folder | https://done.alibaba-inc.com/detail/project/ICBU_MKT/vZtOHZFGPDSB/file?categoryId=NzmqcBEgPWxA&hidebar=true | category | Visible non-empty folder; stable directoryFile not captured |
 | Guideline | folder | CoCreate 2023 guideline folder | https://done.alibaba-inc.com/detail/project/ICBU_MKT/vZtOHZFGPDSB/file?categoryId=NzmqcBEgPWxA&hidebar=true | category | Visible non-empty folder; stable directoryFile not captured |
-| Guideline | product-category | March Expo guideline assets | https://done.alibaba-inc.com/detail/project/ICBU_MKT/exjPD6HzitqG/file?categoryId=mbmIhIPo9KkW&hidebar=true | category | Confirmed non-empty second-level category in March Expo |
-| MarchExpo 2025 | product-category | March Expo 2025 campaign assets | https://done.alibaba-inc.com/detail/project/ICBU_MKT/exjPD6HzitqG/file?categoryId=BFxf1JUUGE4g&hidebar=true | category | Category exists but currently empty — pending upload |
-| MarchExpo 2024 - to be update | product-category | March Expo 2024 campaign assets (pending) | https://done.alibaba-inc.com/detail/project/ICBU_MKT/exjPD6HzitqG/file?categoryId=all&hidebar=true | category | Category visible in nav, content not yet uploaded |
+| Guideline | product-category | March Expo guideline assets | https://done.alibaba-inc.com/detail/project/ICBU_MKT/exjPD6HzitqG/file?categoryId=mbmIhIPo9KkW&hidebar=true | category | Confirmed only non-empty second-level category in March Expo |
 | March Expo logo-png | folder | March Expo logo PNG folder | https://done.alibaba-inc.com/detail/project/ICBU_MKT/exjPD6HzitqG/file?categoryId=mbmIhIPo9KkW&hidebar=true&directoryFile=9nR9exbJU6zVUL7O | folder | Confirmed non-empty folder inside Guideline |
 | 三月大促VI手册 | guideline-file-or-item | March Expo VI handbook PDF | https://done.alibaba-inc.com/detail/project/ICBU_MKT/exjPD6HzitqG/file?categoryId=mbmIhIPo9KkW&hidebar=true | category | Visible PDF file inside Guideline |
 | 三月大促logo | logo-file-or-item | March Expo logo AI source file | https://done.alibaba-inc.com/detail/project/ICBU_MKT/exjPD6HzitqG/file?categoryId=mbmIhIPo9KkW&hidebar=true | category | Visible AI file inside Guideline |
@@ -564,7 +562,6 @@ These are confirmed second-level and third-level assets discovered inside the Pr
 
 | Category | categoryId | What it contains |
 | --- | --- | --- |
-| Accio GTM | gOYHK1sd1xvr | GTM campaign materials (currently empty, pending upload) |
 | Accio Product demo | VIONlk1JX5F2 | Product demo videos and posters by version |
 | Buyer Testimonials | 0wYaiut3BB3G | Buyer testimonial videos and posters |
 | Accio品牌视觉识别规范应用手册（中文版）Visual Guidelines | w8x5QDFaHySG | Brand visual identity handbook PDF/AI (简化版 & 完整版) |
@@ -757,6 +754,82 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/aKSrriSnhq0l
 | Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
 | --- | --- | --- | --- | --- | --- |
 | Accio Co-Marketing Toolkit | pdf-file-or-item | Co-marketing guidelines and assets for partners | https://done.alibaba-inc.com/detail/project/ICBU_MKT/aKSrriSnhq0l/file?categoryId=Nii89BzYN4c2&hidebar=true | category | Single PDF file |
+
+---
+
+## Accio Work Library
+
+- Library name: Accio Work
+- Project ID: ht0ZLjIqgNSt
+- Root Done link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=all&hidebar=true
+- Audience: internal / Accio Work product team
+- Status: latest
+
+### Top-level category map
+
+| Category | categoryId | What it contains |
+| --- | --- | --- |
+| Use cases | QpegbsoJ1yQ2 | MP4 videos: Organize files / Build a store / Build an app (Generative UI) |
+| Logo | TmZhATy6X3tS | Accio Work LOGO PNGs folder |
+| Official Demo | 5J6reQZFwOgE | Official product demo video |
+| How to series | 9GsFoOKMvn6g | Tutorial videos: How to install / What is Accio Work / About Accio Work Agent / 3 steps to set up |
+| Ad Creatives | l7CZVq3Qywik | Ad creative materials |
+
+### Known assets by category
+
+#### Use cases
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=QpegbsoJ1yQ2&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Organize files | video-file-or-item | Use case demo: organizing files with Accio Work | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=QpegbsoJ1yQ2&hidebar=true | category | MP4 video |
+| Build a store | video-file-or-item | Use case demo: building a store with Accio Work | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=QpegbsoJ1yQ2&hidebar=true | category | MP4 video |
+| Build an app (Generative UI) | video-file-or-item | Use case demo: building an app with Generative UI | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=QpegbsoJ1yQ2&hidebar=true | category | MP4 video |
+
+#### Logo
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=TmZhATy6X3tS&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Accio Work LOGO PNGs | folder | Accio Work logo PNG files | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=TmZhATy6X3tS&directoryFile=9hr8Yv22vSWRwywV | folder | Official Accio Work logo PNG assets |
+
+#### SK
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
+| --- | --- | --- | --- | --- | --- |
+| About Accio-Work | sk-file-or-item | Accio Work brand and product introduction PPT | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | Single PPT item; tags: Accio, SK; updated a few minutes ago by 崇少 |
+
+#### Official Demo
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=5J6reQZFwOgE&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Official Demo | video-file-or-item | Official product demonstration video | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=5J6reQZFwOgE&hidebar=true | category | Single demo video |
+
+#### How to series
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
+| --- | --- | --- | --- | --- | --- |
+| How to install | folder | Tutorial: how to install Accio Work | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&directoryFile=lEfAPvBHBYVw3bzY | folder | Step-by-step install tutorial video |
+| What is Accio Work | folder | Tutorial: introduction to Accio Work | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&directoryFile=OGL7bLBWYzbKTh4e | folder | Product overview tutorial video |
+| About Accio Work Agent | folder | Tutorial: about the Accio Work Agent | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&directoryFile=us9ntSQLYciOwuOS | folder | Agent feature tutorial video |
+| 3 steps to set up | folder | Tutorial: 3-step setup guide | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&directoryFile=gkBzjHGEMszbG5jn | folder | Quick setup tutorial video |
+
+#### Ad Creatives
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=l7CZVq3Qywik&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Wispr Flow x Accio Work | folder | Wispr Flow 联名广告素材，含视频和海报 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=l7CZVq3Qywik&hidebar=true&directoryFile=bIZ0Xusu4vn9M6Ka | folder | 5个文件，tags: Video / Poster |
+| Spotlight video | folder | Accio Work Spotlight 广告视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=l7CZVq3Qywik&hidebar=true&directoryFile=6QY9x8LjYfHrjxgG | folder | 3个文件，tags: Video |
 
 ---
 
