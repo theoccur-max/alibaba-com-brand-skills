@@ -258,6 +258,7 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a
 | └─ 生意助手入驻Accio Work | folder | 生意助手相关使用视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true&directoryFile=WVRyz0qdrTUEqRtz | folder | 含5个MP4视频 |
 | HOW TO 系列视频 | folder | Accio Work 教程系列视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true&directoryFile=h0Dzjvg6zt2CFEHy | folder | 含4个MP4：Skill安装/智能体安装/省积分攻略/安装指南 |
 | Accio Work 产品 品牌片 | folder | Accio Work 产品品牌视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&hidebar=true&directoryFile=A5piW6s2aUpaKy3S | folder | 含4个MP4：Spa店篇/香薰篇/玩具篇/合集 |
+| Acciowork成交营-终稿 | pptx-file | 成交营介绍、品牌及业务介绍类演示材料 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=nSnY0o9tICaN&directoryFileId=wcoMQqmukwtAQkdU&hidebar=true | direct-file | 用户截图确认新增的单个PPTX文件；可见tag为 CGS / AccioWork / SK |
 
 Suggested routing tags:
 - CGS
@@ -265,6 +266,8 @@ Suggested routing tags:
 - Accio Work素材
 - 品牌视频
 - 教程视频
+- 成交营
+- AccioWork
 
 ## Link handling rule
 
