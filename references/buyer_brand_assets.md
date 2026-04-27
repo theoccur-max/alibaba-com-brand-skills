@@ -564,6 +564,7 @@ These are confirmed second-level and third-level assets discovered inside the Pr
 
 | Category | categoryId | What it contains |
 | --- | --- | --- |
+| Accio GTM | gOYHK1sd1xvr | GTM campaign materials (currently empty, pending upload) |
 | Accio Product demo | VIONlk1JX5F2 | Product demo videos and posters by version |
 | Buyer Testimonials | 0wYaiut3BB3G | Buyer testimonial videos and posters |
 | Accio品牌视觉识别规范应用手册（中文版）Visual Guidelines | w8x5QDFaHySG | Brand visual identity handbook PDF/AI (简化版 & 完整版) |
