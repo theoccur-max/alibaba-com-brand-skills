@@ -327,6 +327,29 @@ Suggested routing tags:
 - Logo
 - Demo
 
+### Accio Work (For GGS)
+
+Category path: 全球供应商 | GGS > Accio Work (For GGS)
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true
+
+| 文件/文件夹名 | 类型 | 用途 | 确认链接 | 链接层级 | 备注 |
+| --- | --- | --- | --- | --- | --- |
+| How to set up connectors | file | 教程：如何设置 connectors | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true | category | 单文件 |
+| How to set up channels | file | 教程：如何设置 channels | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true | category | 单文件 |
+| How to install | folder | 教程：如何安装 Accio Work | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&directoryFile=d69b1690e730039d&hidebar=true | folder | 安装教程 |
+| 3 steps to set up | folder | 教程：3步完成设置 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&directoryFile=e809ca09898d1a24&hidebar=true | folder | 快速设置指南 |
+| Accio Work Demo Video Final | folder | Accio Work 最终演示视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&directoryFile=b077ec5384897cd7&hidebar=true | folder | 官方演示视频 |
+| Accio Work LOGO PNGs | folder | Accio Work LOGO PNG 文件 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&directoryFile=a4c7c6d4797ecc7d&hidebar=true | folder | 官方 logo 资产 |
+| What is Accio Work | file | 介绍 Accio Work 是什么 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true | category | 单文件 |
+
+Suggested routing tags:
+- GGS
+- Accio Work
+- Accio Work (For GGS)
+- 教程视频
+- logo
+
 ## Link handling rule
 
 Default to the most specific confirmed browseable link available in this order:
