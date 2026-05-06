@@ -770,7 +770,7 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/aKSrriSnhq0l
 | Category | categoryId | What it contains |
 | --- | --- | --- |
 | Use cases | QpegbsoJ1yQ2 | MP4 videos: Organize files / Build a store / Build an app (Generative UI) |
-| Logo | TmZhATy6X3tS | Accio Work LOGO PNGs folder |
+| Logo & KV | TmZhATy6X3tS | Accio Work LOGO PNGs folder + KV (key visual) folder |
 | Official Demo | 5J6reQZFwOgE | Official product demo video |
 | How to series | 9GsFoOKMvn6g | Tutorial videos: How to install / What is Accio Work / About Accio Work Agent / 3 steps to set up |
 | Ad Creatives | l7CZVq3Qywik | Ad creative materials |
@@ -787,13 +787,14 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt
 | Build a store | video-file-or-item | Use case demo: building a store with Accio Work | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=QpegbsoJ1yQ2&hidebar=true | category | MP4 video |
 | Build an app (Generative UI) | video-file-or-item | Use case demo: building an app with Generative UI | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=QpegbsoJ1yQ2&hidebar=true | category | MP4 video |
 
-#### Logo
+#### Logo & KV
 
 Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=TmZhATy6X3tS&hidebar=true
 
 | Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Accio Work LOGO PNGs | folder | Accio Work logo PNG files | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=TmZhATy6X3tS&directoryFile=9hr8Yv22vSWRwywV | folder | Official Accio Work logo PNG assets |
+| Accio Work LOGO PNGs | folder | Accio Work logo PNG files (black + white) | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=TmZhATy6X3tS&directoryFile=9hr8Yv22vSWRwywV | folder | Official Accio Work logo PNG assets |
+| KV | folder | Key visual assets (D1/L1/D12/L2 variants) | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=TmZhATy6X3tS&directoryFile=8zuDnDrt0BYk1zUe | folder | 新增 2026-05-06；含 Accio Work D1、L1、D12、L2 四款 KV |
 
 #### SK
 
@@ -831,6 +832,7 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt
 | --- | --- | --- | --- | --- | --- |
 | Accio Brand Toolkit-0430 | pptx/file | Accio Work 品牌 toolkit PPT | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | 最新版品牌 toolkit |
 | About Accio-Work | file | Accio Work 产品介绍 SK | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | 产品介绍文件 |
+| Backdrop 390x240cm | psb/png | 展台背景板设计文件（PSB + PNG 两个格式） | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | 新增 2026-05-06；包含 PSB 源文件和 PNG 导出版 |
 
 #### Ad Creatives
 
