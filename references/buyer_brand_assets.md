@@ -796,15 +796,15 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt
 | Accio Work LOGO PNGs | folder | Accio Work logo PNG files (black + white) | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=TmZhATy6X3tS&directoryFile=9hr8Yv22vSWRwywV | folder | Official Accio Work logo PNG assets |
 | KV | folder | Key visual assets (D1/L1/D12/L2 variants) | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=TmZhATy6X3tS&directoryFile=8zuDnDrt0BYk1zUe | folder | 新增 2026-05-06；含 Accio Work D1、L1、D12、L2 四款 KV |
 
-#### SK
+#### SK & PPT
 
 Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true
 
 | Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Accio Brand Toolkit-0430 | pptx-file | Accio Work 品牌 toolkit PPTX，包含品牌介绍与 How To 内容 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | Primary brand intro SK; 单个 PPTX；标签：Accio, How To |
-| Backdrop 390x240cm | psb-file | Physical backdrop design source file | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | PSB format; replaces former About Accio-Work item |
-| Backdrop 390*240cm | png-file | Physical backdrop design PNG | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | PNG format backdrop |
+| Accio Brand Toolkit-0430 | pptx-file | Accio Work 品牌 toolkit PPTX，包含品牌介绍与 How To 内容 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | Primary brand intro SK; 单个 PPTX |
+| Backdrop 390x240cm | psb-file | Physical backdrop design source file (PSB) | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | PSB format |
+| Backdrop 390*240cm | png-file | Physical backdrop design PNG | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | PNG format |
 
 #### Official Demo
 
@@ -820,20 +820,12 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt
 
 | Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
 | --- | --- | --- | --- | --- | --- |
+| How to set up channels | mp4-file | Tutorial: how to set up channels | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&hidebar=true | category | Single MP4 video |
+| How to set up connectors | mp4-file | Tutorial: how to set up connectors | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&hidebar=true | category | Single MP4 video |
 | How to install | folder | Tutorial: how to install Accio Work | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&directoryFile=lEfAPvBHBYVw3bzY | folder | Step-by-step install tutorial video |
 | What is Accio Work | folder | Tutorial: introduction to Accio Work | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&directoryFile=OGL7bLBWYzbKTh4e | folder | Product overview tutorial video |
 | About Accio Work Agent | folder | Tutorial: about the Accio Work Agent | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&directoryFile=us9ntSQLYciOwuOS | folder | Agent feature tutorial video |
 | 3 steps to set up | folder | Tutorial: 3-step setup guide | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=9GsFoOKMvn6g&directoryFile=gkBzjHGEMszbG5jn | folder | Quick setup tutorial video |
-
-#### SK & PPT
-
-Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true
-
-| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
-| --- | --- | --- | --- | --- | --- |
-| Accio Brand Toolkit-0430 | pptx/file | Accio Work 品牌 toolkit PPT | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | 最新版品牌 toolkit |
-| About Accio-Work | file | Accio Work 产品介绍 SK | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | 产品介绍文件 |
-| Backdrop 390x240cm | psb/png | 展台背景板设计文件（PSB + PNG 两个格式） | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | 新增 2026-05-06；包含 PSB 源文件和 PNG 导出版 |
 
 #### Ad Creatives
 
