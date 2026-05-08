@@ -855,7 +855,7 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt
 
 | Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Accio Brand Toolkit-0430 | pptx-file | Accio Work 品牌 toolkit PPTX，包含品牌介绍与 How To 内容 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | Primary brand intro SK; 单个 PPTX |
+| Accio Brand Toolkit-0507 | pptx-file | Accio Work 品牌 toolkit PPTX，包含品牌介绍与 How To 内容 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | Primary brand intro SK; 单个 PPTX |
 | Backdrop 390x240cm | psb-file | Physical backdrop design source file (PSB) | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | PSB format |
 | Backdrop 390*240cm | png-file | Physical backdrop design PNG | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=nOh4UJ3ASM2n&hidebar=true | category | PNG format |
 
