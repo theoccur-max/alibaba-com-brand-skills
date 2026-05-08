@@ -52,13 +52,53 @@ Fetch only the file(s) relevant to the user's request. If the audience is ambigu
 
 ## Output format
 
-- Recommended asset
-- Audience / library path
-- Why it fits
-- Done link
-- How to find it in the library
-- Usage notes
-- Alternatives, if relevant
+**When the request involves a product or asset that spans multiple audiences (e.g. Accio Work, Trade Assurance, logo), ALWAYS return results for ALL matching audiences together in one response. Never return only one audience when multiple have confirmed assets.**
+
+Use this exact structure for every response:
+
+---
+
+**[Asset name] —— 全受众汇总**
+
+### Buyer（面向买家/合作伙伴）
+路径：[Library name] > [Category name]
+
+👉 [类目链接文字](URL)
+
+| 素材 | 说明 |
+|---|---|
+| **[Asset title]** | [Brief description] |
+
+---
+
+### CGS（面向中国供应商）
+路径：[Library name] > [Category name]
+
+👉 [类目链接文字](URL)
+
+| 素材 | 说明 |
+|---|---|
+| **[Asset title]** | [Brief description] |
+
+---
+
+### GGS（面向全球供应商）
+路径：[Library name] > [Category name]
+
+👉 [类目链接文字](URL)
+
+| 素材 | 说明 |
+|---|---|
+| **[Asset title]** | [Brief description] |
+
+---
+
+Rules:
+- Include only audiences that have confirmed assets in the references. Omit audiences with no confirmed match.
+- Use the most specific confirmed link (folder > category > root).
+- Bold the primary/recommended asset in each audience section.
+- Keep descriptions concise (one line per asset).
+- If only one audience has a confirmed match, return only that one and note the others have no confirmed asset.
 
 ## Response style
 
