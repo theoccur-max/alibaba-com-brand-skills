@@ -1,5 +1,58 @@
 # Buyer Global Brand Assets Index
 
+## MANDATORY OUTPUT FORMAT RULES
+
+**These rules apply to EVERY response from this skill. Always follow them regardless of how the user phrases the question.**
+
+### Rule 1: Always return ALL matching audiences together
+
+When the requested asset exists across multiple audiences (e.g. Accio Work, Trade Assurance, logo, brand video, SK), you MUST return results for ALL matching audiences (Buyer / CGS / GGS) in a single response. Never return only one audience when multiple have confirmed assets.
+
+### Rule 2: Use this exact output structure
+
+```
+**[Asset name] —— 全受众汇总**
+
+### Buyer（面向买家/合作伙伴）
+路径：[Library name] > [Category name]
+
+👉 [类目链接文字](URL)
+
+| 素材 | 说明 |
+|---|---|
+| **[Asset title]** | [Brief description] |
+
+---
+
+### CGS（面向中国供应商）
+路径：[Library name] > [Category name]
+
+👉 [类目链接文字](URL)
+
+| 素材 | 说明 |
+|---|---|
+| **[Asset title]** | [Brief description] |
+
+---
+
+### GGS（面向全球供应商）
+路径：[Library name] > [Category name]
+
+👉 [类目链接文字](URL)
+
+| 素材 | 说明 |
+|---|---|
+| **[Asset title]** | [Brief description] |
+```
+
+### Rule 3: Section rules
+
+- Include only audiences that have confirmed assets. Omit audiences with no confirmed match.
+- Bold (**) the primary/recommended asset in each section.
+- Use the most specific confirmed link available (folder link > category link > root link).
+- Keep asset descriptions concise — one line per asset.
+- If only one audience has a confirmed match, return only that section and note the others have no confirmed asset.
+
 ## Library overview
 
 - Library name: Global Buyer | Buyer
