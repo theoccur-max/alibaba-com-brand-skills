@@ -824,9 +824,11 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/aKSrriSnhq0l
 | --- | --- | --- |
 | Use cases | QpegbsoJ1yQ2 | MP4 videos: Organize files / Build a store / Build an app (Generative UI) |
 | Logo & KV | TmZhATy6X3tS | Accio Work LOGO PNGs folder + KV (key visual) folder |
+| SK & PPT | nOh4UJ3ASM2n | Brand toolkit PPTX / Backdrop design files (PSB + PNG) |
 | Official Demo | 5J6reQZFwOgE | Official product demo video |
 | How to series | 9GsFoOKMvn6g | Tutorial videos: How to install / What is Accio Work / About Accio Work Agent / 3 steps to set up |
 | Ad Creatives | l7CZVq3Qywik | Ad creative materials |
+| For Chinese Alibaba.com Suppliers | cS6VE1NnTQCx | 面向中国供应商的 Accio Work 素材：HOW TO 系列视频 / 生意助手入驻 Accio Work / Accio Work 一页纸 / 客户使用 Accio Work 的视频 / PPT |
 
 ### Known assets by category
 
@@ -888,6 +890,18 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt
 | --- | --- | --- | --- | --- | --- |
 | Wispr Flow x Accio Work | folder | Wispr Flow 联名广告素材，含视频和海报 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=l7CZVq3Qywik&hidebar=true&directoryFile=bIZ0Xusu4vn9M6Ka | folder | 5个文件，tags: Video / Poster |
 | Spotlight video | folder | Accio Work Spotlight 广告视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=l7CZVq3Qywik&hidebar=true&directoryFile=6QY9x8LjYfHrjxgG | folder | 3个文件，tags: Video |
+
+#### For Chinese Alibaba.com Suppliers
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=cS6VE1NnTQCx&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
+| --- | --- | --- | --- | --- | --- |
+| HOW TO 系列视频 | folder | 中国供应商 Accio Work 使用教程视频合集 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=cS6VE1NnTQCx&directoryFile=h0Dzjvg6zt2CFEHy | folder | 新增 2026-05-12；与 CGS 库同步 |
+| 生意助手入驻Accio Work | folder | 生意助手接入 Accio Work 操作视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=cS6VE1NnTQCx&directoryFile=A5piW6s2aUpaKy3S | folder | 新增 2026-05-12 |
+| Accio Work一页纸 | png-file | Accio Work 产品一页纸介绍（PNG） | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=cS6VE1NnTQCx&hidebar=true | category | 新增 2026-05-12 |
+| 客户使用Accio Work的视频 | folder | 客户实际使用场景视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=cS6VE1NnTQCx&directoryFile=aGKPA2IBwGqH3o4w | folder | 新增 2026-05-12 |
+| [PPT]AccioWork-B2B走向A2A-final | pptx-file | Accio Work B2B→A2A 战略演讲 PPT | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=cS6VE1NnTQCx&hidebar=true | category | 新增 2026-05-12 |
 
 ---
 
