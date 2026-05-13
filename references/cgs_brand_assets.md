@@ -66,7 +66,7 @@ These tags are confirmed as CGS-relevant routing signals. Some map to exact inde
 | --- | --- | --- | --- |
 | 国际站品牌规范2026 | 品牌规范、logo、PPT、icon、品牌背书、从属规范 | logo、品牌规范、字体、PPT、icon、品牌系统请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=Hi2BStqfooGm&hidebar=true |
 | 国际站品牌介绍 | 卖家版品牌介绍 PDF 和 PPTX | 品牌介绍、公司介绍、卖家版介绍、PDF 或 PPT 请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=MFiiUbI0v7Bl&hidebar=true |
-| 国际站品牌视频 | 品牌主视频 | 品牌视频、主叙事视频、世界更小生意更大相关请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=jWFYJRa2XlWH&hidebar=true |
+| 国际站品牌视频 | 品牌主视频（260513_阿里国际站《世界更小 生意更大》） | 品牌视频、主叙事视频、世界更小生意更大相关请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=jWFYJRa2XlWH&hidebar=true |
 | 国际站产品介绍 | AI 生意助手、OKKI、Pay、Logistics、VR Showroom | 产品介绍、产品物料、产品视频、产品 logo、SK 请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=mCdJcBLO0X1Y&hidebar=true |
 | 国际站选品中心规范 | 选品中心 SI 规范 | SI 规范、空间或场景规范、选品中心规范请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=fvyvVTz9HaGZ&hidebar=true |
 | 业务及产品GTM | 城市计划、半托管、AI 保效计划 | GTM、campaign、业务传播项目请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=xVdtZg3pzKuR&hidebar=true |
@@ -136,7 +136,7 @@ https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryI
 
 | Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
 | --- | --- | --- | --- | --- | --- |
-| 20241014_国际站_世界更小生意更大 (MP4) | video | 品牌主视频、品牌叙事视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=jWFYJRa2XlWH&hidebar=true | category | 当前确认类目级可浏览 |
+| 260513_阿里国际站《世界更小 生意更大》(MP4) | video | 品牌主视频、品牌叙事视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=jWFYJRa2XlWH&hidebar=true | category | 2026-05-13 替换更新；旧文件名 20241014_国际站_世界更小生意更大 |
 
 Suggested routing tags:
 - CGS
