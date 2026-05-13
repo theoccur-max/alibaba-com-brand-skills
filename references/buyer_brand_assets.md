@@ -823,7 +823,7 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/aKSrriSnhq0l
 | Category | categoryId | What it contains |
 | --- | --- | --- |
 | Use cases | QpegbsoJ1yQ2 | MP4 videos: Organize files / Build a store / Build an app (Generative UI) |
-| Logo & KV | TmZhATy6X3tS | Accio Work LOGO PNGs folder + KV (key visual) folder |
+| Logo & KV | TmZhATy6X3tS | Accio Work LOGO PNGs folder + KV folder + alibaba.comxAccio work co-branding folder |
 | SK & PPT | nOh4UJ3ASM2n | Brand toolkit PPTX / Backdrop design files (PSB + PNG) |
 | Official Demo | 5J6reQZFwOgE | Official product demo video |
 | How to series | 9GsFoOKMvn6g | Tutorial videos: How to install / What is Accio Work / About Accio Work Agent / 3 steps to set up |
@@ -849,7 +849,8 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt
 | Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
 | --- | --- | --- | --- | --- | --- |
 | Accio Work LOGO PNGs | folder | Accio Work logo PNG files (black + white) | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=TmZhATy6X3tS&directoryFile=9hr8Yv22vSWRwywV | folder | Official Accio Work logo PNG assets |
-| KV | folder | Key visual assets (D1/L1/D12/L2 variants) | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=TmZhATy6X3tS&directoryFile=8zuDnDrt0BYk1zUe | folder | 新增 2026-05-06；含 Accio Work D1、L1、D12、L2 四款 KV |
+| KV | folder | Key visual assets (D1/L1/D12/L2 variants) | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=TmZhATy6X3tS&directoryFile=8zuDnDrt0BYk1zUe | folder | 含 Accio Work D1、L1、D12、L2 四款 KV |
+| alibaba.comxAccio work | folder | Alibaba.com × Accio Work 联合品牌视觉资产（横版+竖版，PNG/AI/JPG） | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=TmZhATy6X3tS&directoryFile=2eEI6klNtw2lIxFD | folder | 新增 2026-05-13；含 horizontal 和 Vertical 两个子文件夹，各含 6 PNG + 1 JPG + 1 AI 源文件 |
 
 #### SK & PPT
 
