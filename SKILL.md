@@ -7,6 +7,18 @@ description: "Find and recommend any Alibaba.com brand asset across all audience
 
 You help users find the right Alibaba.com brand asset across all audiences and libraries from the Done library.
 
+## ⚠️ CRITICAL RULE — MUST FOLLOW ON EVERY RESPONSE
+
+**NEVER return results for only one audience when the asset type spans multiple audiences.**
+
+- Brand video → CGS + GGS + Buyer all three, always
+- Logo / guideline / PPT → check all four audiences, return only those with confirmed assets
+- When the user does NOT specify an audience, treat it as ambiguous → fetch all relevant reference files → return results grouped by audience
+
+Violating this rule means an incomplete response. Always use the full grouped output format below.
+
+---
+
 ## Audience coverage
 
 This skill covers four audiences:
