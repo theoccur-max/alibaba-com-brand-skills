@@ -828,7 +828,7 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/aKSrriSnhq0l
 | Official Demo | 5J6reQZFwOgE | Official product demo video |
 | How to series | 9GsFoOKMvn6g | Tutorial videos: How to install / What is Accio Work / About Accio Work Agent / 3 steps to set up |
 | Ad Creatives | l7CZVq3Qywik | Ad creative materials |
-| For Chinese Alibaba.com Suppliers | cS6VE1NnTQCx | 面向中国供应商的 Accio Work 素材：HOW TO 系列视频 / 生意助手入驻 Accio Work / Accio Work 一页纸 / 客户使用 Accio Work 的视频 / PPT |
+| For Chinese Alibaba.com Suppliers | cS6VE1NnTQCx | 面向中国供应商的 Accio Work 素材：510线下展位 / 功能场景展示套图 / HOW TO 系列视频 / 生意助手入驻 Accio Work / Accio Work 一页纸 / 客户使用 Accio Work 的视频 / PPT |
 
 ### Known assets by category
 
@@ -903,6 +903,8 @@ Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt
 | Accio Work一页纸 | png-file | Accio Work 产品一页纸介绍（PNG） | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=cS6VE1NnTQCx&hidebar=true | category | 新增 2026-05-12 |
 | 客户使用Accio Work的视频 | folder | 客户实际使用场景视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=cS6VE1NnTQCx&directoryFile=aGKPA2IBwGqH3o4w | folder | 新增 2026-05-12 |
 | [PPT]AccioWork-B2B走向A2A-final | pptx-file | Accio Work B2B→A2A 战略演讲 PPT | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=cS6VE1NnTQCx&hidebar=true | category | 新增 2026-05-12 |
+| 510Accio Work线下展位 | folder | 510大促线下展位设计素材（含8个子文件） | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=cS6VE1NnTQCx&directoryFile=iA4WGo6IFB5frDjy | folder | 新增 2026-05-14 |
+| 功能场景展示套图 | folder | Accio Work 功能场景展示套图（含8个子文件） | https://done.alibaba-inc.com/detail/project/ICBU_MKT/ht0ZLjIqgNSt/file?categoryId=cS6VE1NnTQCx&directoryFile=GW6WbkP42rFknV8s | folder | 新增 2026-05-14 |
 
 ---
 
