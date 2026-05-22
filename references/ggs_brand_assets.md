@@ -16,6 +16,14 @@
 
 These tags are confirmed as GGS-relevant routing signals. Some map to exact indexed categories below, while others currently serve as search clues for deeper assets not yet fully linked.
 
+### Regional tags
+- South Korea
+- 韩国
+- Korea
+- Brand Campaign
+- FY26
+- Exhibition
+
 ### Base tags
 - GGS
 
@@ -66,6 +74,7 @@ These tags are confirmed as GGS-relevant routing signals. Some map to exact inde
 | GGS Whitepaper | whitepaper / report | whitepaper、report、outlook、barometer 请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=JxAWXNyn2Y4N&hidebar=true |
 | GGS Webinar (to be updated) | webinar 资料 | webinar、Buyer KOL、International Trade Center 请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=uCK0DODuud3R&hidebar=true |
 | Accio Work (For GGS) | Accio Work for GGS 教程、演示、Logo 与介绍素材 | Accio Work、How to、Demo、Logo、What is Accio Work 请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true |
+| Regional: South Korea | Alibaba.com South Korea 品牌资产：韩国展会 PPT、FY26 Brand Campaign 视频 | 韩国、South Korea、Korea、韩国展会、韩国广告投放请求 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/okJVHb2vBRD1/file?categoryId=all&hidebar=true |
 
 ## Known assets by category
 
@@ -146,8 +155,19 @@ https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryI
 
 | Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Photos | folder/item | buyer story 图片素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=LCCmKWjPnQRq&hidebar=true | category | 与截图 tag `Photo` 对应 |
-| Carousel | folder/item | 轮播图素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=LCCmKWjPnQRq&hidebar=true | category | buyer story 变体 |
+| New Logo Version | folder | 新版 logo 变体素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=LCCmKWjPnQRq&hidebar=true | category | Buyer Story 子类 |
+| Photos | folder | Buyer Story 图片素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=LCCmKWjPnQRq&hidebar=true | category | 对应 Tag: Photo |
+| Carousel | folder | 轮播图素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=LCCmKWjPnQRq&hidebar=true | category | Buyer Story 变体 |
+| With Chinese Packaging | folder | 含中国版包装的素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=LCCmKWjPnQRq&hidebar=true | category | 包装视觉 |
+| With English Packaging | folder | 含英文版包装的素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=LCCmKWjPnQRq&hidebar=true | category | 包装视觉 |
+| No Packaging | folder | 无包装版素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=LCCmKWjPnQRq&hidebar=true | category | 包装视觉 |
+
+Suggested routing tags:
+- GGS
+- Buyer Stories
+- Photo
+- Packaging
+- Carousel
 | With Chinese Packaging | folder/item | 中文包装版本 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=LCCmKWjPnQRq&hidebar=true | category | packaging 变体 |
 | With English Packaging | folder/item | 英文包装版本 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=LCCmKWjPnQRq&hidebar=true | category | packaging 变体 |
 | No Packaging | folder/item | 无包装版本 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=LCCmKWjPnQRq&hidebar=true | category | packaging 变体 |
@@ -327,28 +347,43 @@ Suggested routing tags:
 - Logo
 - Demo
 
-### Accio Work (For GGS)
+### Regional: Alibaba.com South Korea
 
-Category path: 全球供应商 | GGS > Accio Work (For GGS)
+Project ID: okJVHb2vBRD1
 
-Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true
+Root Done link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/okJVHb2vBRD1/file?categoryId=all&hidebar=true
 
-| 文件/文件夹名 | 类型 | 用途 | 确认链接 | 链接层级 | 备注 |
+| Category | categoryId | What it contains | Available link |
+| --- | --- | --- | --- |
+| 韩国展会 | 9NKUy7nfxP5I | 韩国展会相关 PPT 与设计素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/okJVHb2vBRD1/file?categoryId=9NKUy7nfxP5I&hidebar=true |
+| 广告投放 | Yg9S1ZokMmxR | FY26 Brand Campaign 视频广告素材（含多个 15s 变体） | https://done.alibaba-inc.com/detail/project/ICBU_MKT/okJVHb2vBRD1/file?categoryId=Yg9S1ZokMmxR&hidebar=true |
+
+#### 韩国展会 (Korea Exhibition)
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/okJVHb2vBRD1/file?categoryId=9NKUy7nfxP5I&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
 | --- | --- | --- | --- | --- | --- |
-| How to set up connectors | file | 教程：如何设置 connectors | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true | category | 单文件 |
-| How to set up channels | file | 教程：如何设置 channels | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true | category | 单文件 |
-| How to install | folder | 教程：如何安装 Accio Work | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&directoryFile=d69b1690e730039d&hidebar=true | folder | 安装教程 |
-| 3 steps to set up | folder | 教程：3步完成设置 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&directoryFile=e809ca09898d1a24&hidebar=true | folder | 快速设置指南 |
-| Accio Work Demo Video Final | folder | Accio Work 最终演示视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&directoryFile=b077ec5384897cd7&hidebar=true | folder | 官方演示视频 |
-| Accio Work LOGO PNGs | folder | Accio Work LOGO PNG 文件 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&directoryFile=a4c7c6d4797ecc7d&hidebar=true | folder | 官方 logo 资产 |
-| What is Accio Work | file | 介绍 Accio Work 是什么 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/cdmsoa2e891F/file?categoryId=wGg0Z2BNiJLd&hidebar=true | category | 单文件 |
+| 한국수입박람회_알리바바닷컴_FINAL_0630_수정 | pptx-file | 韩国进口博览会阿里巴巴 PPT 终稿 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/okJVHb2vBRD1/file?categoryId=9NKUy7nfxP5I&hidebar=true | category | 可预览定位 |
+
+#### 广告投放 (Ad Campaign)
+
+Category link: https://done.alibaba-inc.com/detail/project/ICBU_MKT/okJVHb2vBRD1/file?categoryId=Yg9S1ZokMmxR&hidebar=true
+
+| Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
+| --- | --- | --- | --- | --- | --- |
+| FY26 Brand Campaign | folder | FY26 韩国品牌广告视频库 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/okJVHb2vBRD1/file?categoryId=Yg9S1ZokMmxR&directoryFile=HwDVTq7qNHO7wakb&hidebar=true | folder | 含 EMMEDIA/GASIAN/PIVVEE 等多版本 15s 视频 |
+| 260305_EMMEDIA_15s_VERTICAL_1 1 | video | 韩国广告视频变体 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/okJVHb2vBRD1/file?categoryId=Yg9S1ZokMmxR&directoryFile=HwDVTq7qNHO7wakb&hidebar=true | folder | 位于 FY26 Brand Campaign 文件夹 |
+| 260305_GASIAN_15s_VERTICAL_1 1 | video | 韩国广告视频变体 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/okJVHb2vBRD1/file?categoryId=Yg9S1ZokMmxR&directoryFile=HwDVTq7qNHO7wakb&hidebar=true | folder | 位于 FY26 Brand Campaign 文件夹 |
+| 0128配音横版final | video | 韩国广告视频 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/okJVHb2vBRD1/file?categoryId=Yg9S1ZokMmxR&directoryFile=HwDVTq7qNHO7wakb&hidebar=true | folder | 位于 FY26 Brand Campaign 文件夹 |
 
 Suggested routing tags:
 - GGS
-- Accio Work
-- Accio Work (For GGS)
-- 教程视频
-- logo
+- South Korea
+- 韩国
+- Korea
+- Ad Campaign
+- Exhibition
 
 ## Link handling rule
 
