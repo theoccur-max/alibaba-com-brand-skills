@@ -72,7 +72,7 @@ https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryI
 
 | Asset title | Asset type | Typical use | Confirmed link | Link level | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Alibaba.com | 大区品牌 | folder | 大区品牌 logo / 规范 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=0avGFSmMCRA1&hidebar=true | category | tags: CGS, Alibaba.com Logo, Logo, 大区品牌 |
+| Alibaba.com \| 大区品牌 | folder | 大区品牌 logo / 规范、大区规范 2026 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=0avGFSmMCRA1&hidebar=true&directoryFile=wmEwAqoVXyXFIbm9 | folder | 2026 更新为「Alibaba.com 大区品牌」文件夹直达链接；内含 3 个子文件夹：大区规范2026（40 文件）、大区社媒头像（22 文件）、大区品牌（27 文件）；tags: CGS, Alibaba.com Logo, Logo, 大区品牌, 大区规范2026 |
 | Alibaba.com 品牌背书 | folder | 品牌背书素材 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=0avGFSmMCRA1&hidebar=true | category | tags: CGS, Logo, Alibaba.com Logo, 品牌背书 |
 | Alibaba.com 产品及业务品牌规范 | folder | 产品及业务从属规范 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=0avGFSmMCRA1&hidebar=true | category | tags: CGS, 产品及业务品牌规范, Logo |
 | Alibaba.com 官方社媒Icon | folder | 官方社媒 icon | https://done.alibaba-inc.com/detail/project/ICBU_MKT/VRnwx4PKe8ZL/file?categoryId=0avGFSmMCRA1&hidebar=true | category | tags: Media Icon, CGS |
