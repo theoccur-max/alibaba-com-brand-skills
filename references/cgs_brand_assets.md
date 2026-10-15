@@ -89,7 +89,7 @@ https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryI
 | 产品及业务从属规范 | folder | Alibaba.com 与业务名称组合、从属关系规范 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=Hi2BStqfooGm&hidebar=true&directoryFile=dokxSY4Z3JUt9US8 | folder | 已确认单独文件夹链接；此类内容可优先依赖文件名检索 |
 | 品牌背书 | folder | 品牌背书类 icon 或视觉辅助物料 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=Hi2BStqfooGm&hidebar=true | category | 与截图 tag `品牌背书Icon` 对应 |
 | 品牌logo | folder | 主 logo 系统 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=Hi2BStqfooGm&hidebar=true | category | 与截图 tag `Logo` 对应 |
-| 大区品牌从属规范 | folder | 大区 logo 或品牌从属规则 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=Hi2BStqfooGm&hidebar=true | category | 与截图 tag `大区logo` 对应 |
+| 大区品牌从属规范 | folder | 大区 logo、大区品牌从属规则及大区规范 2026 | https://done.alibaba-inc.com/detail/project/ICBU_MKT/Xw8ldZ65Jm6a/file?categoryId=Hi2BStqfooGm&hidebar=true&directoryFile=SBS7h60rbrvW3fAf | folder | 2026 更新为文件夹直达链接；内含 3 个子文件夹：大区规范2026（40 文件）、大区社媒头像（22 文件）、大区品牌（27 文件）；与截图 tag `大区logo` 对应 |
 
 Known visible items from prior screenshots under this category:
 - 字体包
